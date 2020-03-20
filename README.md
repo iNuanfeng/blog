@@ -4,6 +4,6 @@
 
 [$ 不见了](https://github.com/iNuanfeng/blog/issues/3)
 
-[前端性能优化进阶](https://github.com/iNuanfeng/blog/issues/2)
+[前端性能优化大纲](https://github.com/iNuanfeng/blog/issues/2)
 
 [从koa-session源码解读session本质](https://github.com/iNuanfeng/blog/issues/1)
