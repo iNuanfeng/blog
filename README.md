@@ -1,5 +1,6 @@
 # blog
 
+[lerna管理前端模块实践](https://github.com/iNuanfeng/blog/issues/6)
 
 [技术如何用 OKR 做目标管理（简）](https://github.com/iNuanfeng/blog/issues/5)
 
