@@ -1,4 +1,4 @@
-# blog
+# SHARES
 
 [lerna管理前端模块实践](https://github.com/iNuanfeng/blog/issues/6)
 
